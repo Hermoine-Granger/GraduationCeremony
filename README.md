@@ -1,7 +1,8 @@
-# GraduationCeremony
+# GraduationCeremony 
+
 Solution for 2 consecutive absent days
 
-Explaination :
+Explanation :
 
 for n days:
 n-1 ways  P (nth day) { if present on nth day, any combination will work for previous n-1 days}
